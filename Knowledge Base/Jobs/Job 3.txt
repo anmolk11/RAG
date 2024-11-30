@@ -1,0 +1,118 @@
+Uniphore logo
+Uniphore
+Share
+Show more options
+Data Engineer 
+Dismiss job tip
+To view company or job poster verifications, click the badge next to the job title.
+Bengaluru, Karnataka, India · Reposted 4 days ago · Over 100 potential applicants
+
+ On-site
+Matches your job preferences, workplace type is On-site.
+Full-time
+
+Apply
+
+Save
+Save Data Engineer  at Uniphore
+Data Engineer
+Uniphore · Bengaluru, Karnataka, India (On-site)
+
+Apply
+
+Save
+Save Data Engineer  at Uniphore
+Show more options
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for ₹0
+
+
+
+
+Tailor my resume to this job
+
+Am I a good fit for this job?
+
+How can I best position myself for this job?
+
+People you can reach out to
+Genpact logo
+Genpact logo
+Company alumni from Genpact and others in your network
+
+Show all
+About the job
+Uniphore is one of the largest B2B AI-native companies—decades-proven, built-for-scale and designed for the enterprise. The company drives business outcomes, across multiple industry verticals, and enables the largest global deployments.
+
+Uniphore infuses AI into every part of the enterprise that impacts the customer. We deliver the only multimodal architecture centered on customers that combines Generative AI, Knowledge AI, Emotion AI, workflow automation and a co-pilot to guide you. We understand better than anyone how to capture voice, video and text and how to analyze all types of data.
+
+As AI becomes more powerful, every part of the enterprise that impacts the customer will be disrupted. We believe the future will run on the connective tissue between people, machines and data: all in the service of creating the most human processes and experiences for customers and employees.
+
+Job Description
+
+Position Summary
+
+We're seeking a Data Engineer to join our team and assist in delivering data-driven solutions.
+
+The ideal candidate will have a foundational understanding of data engineering principles, proficiency in Python, and experience with cloud technologies (AWS/GCP/Azure), SQL, and ETL processes.
+
+You will collaborate with cross-functional teams, including product managers, software engineers, and data scientists, to support the integration of data solutions into our projects.
+
+Key Responsibilities
+
+Data and Transformation:
+
+Assist in implementing ETL pipelines to extract, transform, and load data from various sources. 
+Ensure data integrity, quality, and security throughout the data lifecycle. 
+Support the development and optimization of pipelines to facilitate effective information retrieval and generation in data systems. 
+Collaborate with software engineers to integrate data solutions into production systems, ensuring scalability, reliability, and performance. 
+
+Software Engineering
+
+Knowledge and hands-on experience with APIs, scripting, and SQL. 
+Assist in the software development lifecycle (SDLC) methodologies and promote best practices for backend and data engineering. 
+Participate in code reviews to ensure code quality, readability, and maintainability. 
+Assist in developing robust APIs and SDKs (if applicable) for seamless data integration and access. 
+Demonstrate scripting skills (Python, Shell scripting, etc.) to automate processes and workflows. 
+
+Data Warehousing And Architecture
+
+Assist in maintaining data warehouse solutions leveraging cloud technologies. 
+Ensure data integrity, security, and scalability of the data infrastructure. 
+Collaborate with data scientists and analysts to support data models that aid business intelligence and analytics. 
+
+Agile And Scrum Collaboration
+
+Work within agile development methodologies, including Scrum, to deliver iterative data solutions. 
+Participate in sprint planning, daily standups, and retrospectives to ensure project alignment and continuous improvement. 
+
+Qualifications
+
+Bachelor's degree/BE in computer science, Data Science, Engineering, or a related field. 
+2+ years of hands-on experience as a Data Engineer or in a related role, with experience in building and managing data pipelines and data warehouses. 
+
+Must-Have Skills
+
+Proficiency in Python for data manipulation and ETL development. 
+Basic knowledge of cloud services , Salesforce data structures and API integration. 
+Experience with SQL and designing relational databases. 
+Understanding of data modeling, data warehousing, and data integration concepts. 
+Proficiency in relational databases (e.g., MSSQL, MySQL, Postgres) 
+Basic experience with building and deploying data models in production environments 
+Familiarity with web services (REST, SOAP) and basic Internet architecture principles 
+
+Additional Attributes
+
+Problem-solving and analytical abilities. 
+Strong communication and interpersonal skills. 
+Self-driven, proactive, and adaptable to evolving project requirements. 
+Team-oriented mindset and ability to thrive in a collaborative environment. 
+
+Location preference:
+
+India - Bangalore, India - Chennai
+
+Uniphore is an equal opportunity employer committed to diversity in the workplace. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, disability, veteran status, and other protected characteristics.
+
+For more information on how Uniphore uses AI to unify—and humanize—every enterprise experience, please visit www.uniphore.com.
+

@@ -1,0 +1,32 @@
+Recro
+Data Engineer
+Experience: 3+ years
+
+
+
+Overview:
+
+We are looking for a skilled Data Engineer with expertise in designing, building, and maintaining scalable data pipelines. The ideal candidate will have a deep understanding of AWS services, strong SQL and Python skills, and experience in both ETL and ELT data integration patterns. This role involves working closely with cross-functional teams to ensure seamless data flow and support our data-driven initiatives.
+
+
+
+Key Responsibilities:
+
+Design, develop, and maintain robust data pipelines using AWS services, including AWS Glue, Redshift/Spectrum, S3, API Gateway, Athena, Step Functions, and Lambda.
+Implement ETL and ELT data integration patterns to ensure efficient data extraction, transformation, and loading processes.
+Optimize data processing workflows and design solutions for large-scale distributed systems.
+Write and maintain advanced SQL queries to support complex data analysis and transformation requirements.
+Develop, test, and deploy data integration processes using object-oriented programming languages, preferably Python.
+Maintain and enhance CI/CD pipelines to support automated deployment of data processes.
+Collaborate with data scientists, analysts, and other stakeholders to ensure data quality and accessibility.
+Monitor and troubleshoot data pipelines, ensuring high availability and performance.
+
+
+Qualifications:
+
+Strong experience with AWS services, including AWS Glue, Redshift/Spectrum, S3, API Gateway, Athena, Step Functions, and Lambda.
+Proven experience in designing and building data pipelines and integrating complex datasets.
+Proficiency in Python or another object-oriented programming language.
+Advanced SQL skills, with the ability to write and optimize complex queries.
+Understanding of ETL and ELT data integration patterns and best practices.
+Experience with large-scale distributed systems and cloud-based data storage solutions.

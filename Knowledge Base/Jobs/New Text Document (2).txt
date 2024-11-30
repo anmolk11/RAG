@@ -1,0 +1,71 @@
+Guidewire Software logo
+Guidewire Software
+Share
+Show more options
+Data Engineer 
+Bengaluru, Karnataka, India · Reposted 1 week ago · Over 100 applicants
+
+ Hybrid
+Matches your job preferences, workplace type is Hybrid.
+Full-time
+
+Easy Apply
+
+Save
+Save Data Engineer  at Guidewire Software
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for ₹0
+
+
+
+Tailor my resume to this job
+
+Am I a good fit for this job?
+
+How can I best position myself for this job?
+
+People you can reach out to
+Genpact logo
+Genpact logo
+Company alumni from Genpact and others in your network
+
+Show all
+About the job
+As a Senior Data Engineering specialist in the Guidewire Data and Analytics team, you will work with our customers who are adopting our Guidewire Data Platform as the centerpiece of their data foundation.
+
+One of our principles is to have fun while we deliver, so this role will need to keep the delivery process fun and engaging for the team in collaboration with the broader organization. Given the dynamic nature of the work in the Data and Analytics team, we are looking for decisive, highly-skilled technical problem solvers who are self-motivated and take proactive actions for the benefit of our customers and ensure that they succeed in their journey to Guidewire Cloud Platform. You will collaborate closely with teams located around the world and adhere to our core values Integrity, Collegiality, and Rationality.
+
+Key Responsibilities :
+
+Deliver Data Engineering solutions for customers on time and effectively
+You will work within the broader Guidewire data team to improve our internal processes and methodology
+You will participate in the creation of new tooling to support and streamline our project outcomes
+You are a self-motivated problem-solver who takes initiative and always puts customer success first
+You can adapt and perform at a high level in demanding fast-paced Agile environments
+Flexibility to work in shifts as needed (to align with AMER/APAC customers and colleagues
+
+
+
+Qualifications :
+
+Bachelor’s or Master’s Degree in Computer Science, or equivalent level of demonstrable professional competency, and 5 years + in delivery type role
+Multiple project experience with functional programming concepts
+At least 2 years of experience with Scala programming language
+At least 2 years of experience with Apache Spark for big data processing
+Experience with performance tuning of Data Engineering frameworks for near real time applications
+Familiarity with designing and deploying CI/CD pipelines
+Familiarity with data processing and ETL (Extract, Transform, Load) concepts
+Familiarity working with relational and/or NoSQL databases
+Familiarity working with different cloud platforms such as AWS or Azure
+Familiarity developing and deploying production REST APIs
+Familiarity working with customer teams to understand business objectives and functional requirements
+Effective leadership, interpersonal, and communication skills
+
+
+
+Nice to have :
+
+Insurance industry experience
+Experience with the Guidewire Data Platform
+
+

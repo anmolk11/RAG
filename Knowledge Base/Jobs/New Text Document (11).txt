@@ -1,0 +1,66 @@
+Data Engineer 
+Bengaluru, Karnataka, India · Reposted 2 hours ago · Over 100 potential applicants
+
+ On-site
+Matches your job preferences, workplace type is On-site.
+Full-time
+
+Apply
+
+Save
+Save Data Engineer  at News Corp
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for ₹0
+
+
+
+Tailor my resume to this job
+
+Am I a good fit for this job?
+
+How can I best position myself for this job?
+
+People you can reach out to
+Genpact logo
+Genpact logo
+Company alumni from Genpact
+
+Show all
+About the job
+Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status, or disability status. EEO/AA/M/F/Disabled/Vets
+
+Job Description :
+
+About the Role - We are looking for a Data Engineer with experience in analytical abilities in GCP BigQuery, ETL/BL, Python, Composer / Airflow, SQL, GCP Services - with the ability to operate in an agile environment and keen to detail while understanding the larger data warehouse.
+
+Skills & Competencies
+
+A minimum of 2.5 years+ of working experience as a hands on data engineering is a must.
+Advanced degree in the field of computer science, Data Engineering, Data Analytics or equivalent discipline.
+Strong programming experience with Python, SQL, ETL and efficiently querying big datasets using SQL.
+Prior experience with Circle CI CI/CD, Terraform and Github version control is a must.
+Solid understanding of Data collection, data ingestion, data integration, and data operations & maintenance.
+Experience in working with Front end technologies such as React, Angular, Flask, Javascript, HTML, CSS is a plus.
+Domain knowledge on News Media and Communications is an added advantage.
+
+Responsibilities
+
+Design, implement and maintain the scalable and reliable GCP cloud based data infrastructure and BI - ELT processes
+Collaborate with cross functional teams to define data architecture and data warehouse requirements
+Automate data pipelines/ ETL / ELT processes, and data integration workflows using infrastructure as code (IaC) and configuration management tools.
+Deliver production quality, modular, reproducible code in Python, SQL.
+Implement continuous integration and continuous deployment (CI/CD) pipelines for data pipelines and data related applications.
+Keep abreast of the latest developments in the field through continuous learning and proactively champion promising new methods relevant to the problems at hand.
+
+Our Tech Stack
+
+Google Cloud Platform is laaS
+BigQuery, GCS, Python, SQL
+Composer / Airflow - orcestration tools
+Terraform, Circle CI, CI/CD, Github, Hira, Confluence
+
+This job is posted with NTS Technology Services Pvt. Ltd.
+
+Job Category:

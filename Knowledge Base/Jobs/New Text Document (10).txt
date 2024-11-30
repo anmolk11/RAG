@@ -1,0 +1,111 @@
+Pyspark/Python Data Engineer 
+Kolkata, West Bengal, India · 2 days ago · Over 100 applicants
+
+ Hybrid
+Matches your job preferences, workplace type is Hybrid.
+Full-time
+1 of 6 skills match: Python (Programming Language)
+1 of 6 required skills are found on your profile
+
+Easy Apply
+
+Save
+Save Pyspark/Python Data Engineer  at Genpact
+Pyspark/Python Data Engineer
+Genpact · Kolkata, West Bengal, India (Hybrid)
+
+Easy Apply
+
+Save
+Save Pyspark/Python Data Engineer  at Genpact
+Show more options
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for ₹0
+
+
+
+Tailor my resume to this job
+
+Am I a good fit for this job?
+
+How can I best position myself for this job?
+
+People you can reach out to
+
+
+
+Jaydeep and others in your network
+
+Show all
+Meet the hiring team
+Itishree
+Itishree Das  Itishree Das is verified
+ 2nd
+Assistant Manager @ Genpact | Corporate Recruiting, Strategic Hiring
+Job poster · 1 mutual connection
+
+Message
+About the job
+Genpact (NYSE: G) is a global professional services and solutions firm delivering outcomes that shape the future. Our 125,000+ people across 30+ countries are driven by our innate curiosity, entrepreneurial agility, and desire to create lasting value for clients. Powered by our purpose – the relentless pursuit of a world that works better for people – we serve and transform leading enterprises, including the Fortune Global 500, with our deep business and industry knowledge, digital operations services, and expertise in data, technology, and AI. 
+
+Inviting applications for the role of Principal Consultant – Pyspark/Python Data Engineer!
+
+We are looking for a passionate Python developer to join our team at Genpact.
+
+ You will be responsible for developing and implementing high-quality software solutions for data transformation and analytics using cutting-edge programming features and frameworks and collaborating with other teams in the firm to define, design and ship new features.
+
+As an active part of our company, you will brainstorm and chalk out solutions to suit our requirements and meet our business goals. You will also be working on data engineering problems and building data pipelines. You would get ample opportunities to work on challenging and innovative projects, using the latest technologies and tools. 
+
+If you enjoy working in a fast-paced and collaborative environment, we encourage you to apply for this exciting role. We offer industry-standard compensation packages, relocation assistance, and professional growth and development opportunities.
+
+
+
+Responsibilities 
+
+ • Develop, test and maintain high-quality solutions using PySpark /Python programming language.
+
+ • Participate in the entire software development lifecycle, building, testing and delivering high-quality data pipelines.
+
+ • Collaborate with cross-functional teams to identify and solve complex problems.
+
+ • Write clean and reusable code that can be easily maintained and scaled.
+
+ • Keep up to date with emerging trends and technologies in Python development. 
+
+
+
+Qualifications we seek in you!
+
+ Minimum qualifications
+
+• years of experience as a Python Developer with a strong portfolio of projects.
+
+ • Bachelor's degree in Computer Science, Software Engineering or a related field.
+
+ • Experience on developing pipelines on cloud platforms such as AWS or Azure using AWS Glue or ADF
+
+ • In-depth understanding of the Python software development stacks, ecosystems, frameworks and tools such as Numpy, Scipy, Pandas, Dask, spaCy, NLTK, Great Expectations, Splink and PyTorch.
+
+ • Experience with data platforms such as Databricks/ Snowflake
+
+ • Experience with front-end development using HTML or Python.
+
+ • Familiarity with database technologies such as SQL and NoSQL.
+
+ • Excellent problem-solving ability with solid communication and collaboration skills.
+
+
+
+Preferred skills and qualifications
+
+ • Experience with popular Python frameworks such as Django, Flask, FastAPI or Pyramid.
+
+ • Knowledge of GenAI concepts and LLMs.
+
+ • Contributions to open-source Python projects or active involvement in the Python community.
+
+
+
+ Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. Get to know us at genpact.com and on LinkedIn, X, YouTube, and Facebook. 
+
+ Furthermore, please do note that Genpact does not charge fees to process job applications and applicants are not required to pay to participate in our hiring process in any other way. Examples of such scams include purchasing a 'starter kit,' paying to apply, or purchasing equipment or training.

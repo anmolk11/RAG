@@ -1,0 +1,110 @@
+Asper.ai logo
+Asper.ai
+Share
+Show more options
+Data Engineer
+Bengaluru, Karnataka, India · 3 weeks ago · Over 100 applicants
+
+ On-site
+Matches your job preferences, workplace type is On-site.
+Full-time
+1 of 5 skills match: Python (Programming Language)
+1 of 5 required skills are found on your profile
+
+Easy Apply
+
+Save
+Save Data Engineer at Asper.ai
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for ₹0
+
+
+
+
+Tailor my resume to this job
+
+Am I a good fit for this job?
+
+How can I best position myself for this job?
+
+People you can reach out to
+Sonal profile photo
+Sonal profile photo
+Sonal Singh 
+Sonal Singh is verified 
+· 2nd
+Manager Analytics | Generative AI | Problem Solving | MBA, B.Tech
+Company alum from Genpact
+
+Follow
+Meet the hiring team
+Harshita
+Harshita Puri 
+ 2nd
+Manager @ Asper.ai | Talent Acquisition | Tech Hiring | HR Generalist | DEI Ally
+Job poster · 6 mutual connections
+
+Message
+About the job
+About Asper.AI
+
+Asper.ai, a Fractal company, is transforming decision-making at the intersection of demand and supply. Through our innovative ‘autonomic decisioning’ platform, we help organizations unlock growth and become adaptive, intelligent enterprises. By leveraging data, we empower companies to optimize workflows and enhance their bottom-line results with proactive, interconnected, and automated decisions.
+
+Role: Senior Data Engineer
+
+Location: Bangalore | Hybrid
+
+Reporting to: Director-Engineering
+
+Direct Reports: N/A (Senior Individual Contributor Role)
+
+Why Work with Us?
+
+Dynamic Growth: Join a fast-paced, stable start-up with a supportive culture where you can excel both personally and professionally.
+Cutting-edge Tech: Be part of the AI revolution, using the latest technologies to build solutions that impact the world.
+Great Team: Collaborate with some of the brightest, most supportive colleagues, creating bonds that last a lifetime. Work hard, play hard.
+Impact at Scale: Contribute to transformative products that are reshaping the future of the CPG industry.
+
+
+Our Ethos
+
+We believe in the power of people to create extraordinary outcomes with technology. Our culture is built on collaboration, continuous learning, innovation, and agility—an inspiring environment where you can thrive both professionally and personally.
+
+
+
+Why This Role Matters
+
+
+
+As a Senior Data Engineer, you’ll develop and manage scalable data solutions for the Consumer-Packaged Goods (CPG) sector. You will ensure data systems' accuracy, performance, and integration, enabling key insights into consumer behavior and supply chain efficiency. Your work will drive data-driven strategies that fuel product innovation and business growth.
+
+
+
+Key Responsibilities
+
+Build and support scalable data pipelines (ETL processes: extraction, transformation, loading) for our SaaS AI applications and Predictions-as-a-Service offerings.
+Deploy and maintain data pipelines using orchestration tools like Kubeflow and Airflow.
+Own, audit, and optimize multiple data pipelines, ensuring scalability and performance.
+Collaborate with AI/ML, DevOps, MLE, and product teams to deliver efficient software solutions.
+Document and communicate technical designs, timelines, and project plans (HLD, LLD).
+Support deployed pipelines through performance enhancements and bug fixes.
+Engage in cross-team activities (training, hiring) to promote Asper’s mission and culture.
+
+
+Experience Required
+
+
+
+Strong coding skills in Python, PySpark, and SQL.
+Experience building, optimizing, and maintaining Spark pipelines in production environments.
+Proven experience with scalable ETL processes, including real-time monitoring and alerting.
+Familiarity with orchestration technologies like Airflow and Kubeflow.
+Experience with cloud platforms like AWS or Azure.
+Proficiency with essential developer tools, including GitHub, Docker, and VSCode.
+Ability to perform performance optimization for large-scale data ingestion.
+Thrive in a fast-paced, deadline-driven environment.
+
+
+Interested? Visit us at www.asper.ai for more details.
+
+

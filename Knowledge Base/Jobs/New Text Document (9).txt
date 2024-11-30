@@ -1,0 +1,55 @@
+Deloitte logo
+Deloitte
+Share
+Show more options
+Data Engineer 
+Maharashtra, India · Reposted 1 month ago · Over 100 applicants
+
+ Hybrid
+Matches your job preferences, workplace type is Hybrid.
+Full-time
+1 of 5 skills match: Python (Programming Language)
+1 of 5 required skills are found on your profile
+
+Easy Apply
+
+Save
+Save Data Engineer  at Deloitte
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for ₹0
+
+
+
+Tailor my resume to this job
+
+Am I a good fit for this job?
+
+How can I best position myself for this job?
+
+People you can reach out to
+
+
+
+Anuj and others in your network
+
+Show all
+About the job
+Hi, We are looking for Candidates who are having experience as Data Engineer Role.
+
+
+
+Experience Required: 7+ years.
+
+Location: PAN India
+
+
+
+Responsibilities:
+
+Databricks Development: Design, develop, and optimize Databricks workflows and solutions.
+Python & PySpark: Write, test, and maintain Python and PySpark code for data processing and analytics.
+SQL Proficiency: Develop complex SQL queries and perform data analysis to support business requirements.
+Spark Architecture: Understand and leverage Spark architecture and optimization techniques to improve job performance and efficiency.
+Medallion Architecture: Implement and work with the Medallion architecture to organize and structure data pipelines.
+Delta Live Tables (Optional): Utilize Delta Live Tables for streamlining data engineering tasks and ensuring data reliability.
+
